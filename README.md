@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
- A walkthrough of implemented user stories can be accessed in the files:
-
+ A walkthrough of implemented user stories:
+<img src:
 
 ## Notes
 I faced challenges with loading pictures in xml files and learning new terminology.
