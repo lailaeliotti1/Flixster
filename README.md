@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
  A walkthrough of implemented user stories:
-<img src:"https://github.com/lailaeliotti1/Flixster/raw/9219040b3ac1a6fb9b597eecaae8e2f1719adbba/jevJRCiL.gif" width="250" />
+![](https://github.com/lailaeliotti1/Flixster/raw/9219040b3ac1a6fb9b597eecaae8e2f1719adbba/jevJRCiL.gif)
 
 ## Notes
 I faced challenges with loading pictures in xml files and learning new terminology.
