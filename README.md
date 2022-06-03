@@ -29,11 +29,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+ A walkthrough of implemented user stories can be accessed in the files:
 
-<img src='jevJRCiL.gif' title='Flixstergif' width='' alt='Video Walkthrough' />
-
-GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 I faced challenges with loading pictures in xml files and learning new terminology.
